@@ -1,0 +1,1 @@
+module.exports.hyphenizeStringsIntoOne = (...args) => args.join('-');
